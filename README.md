@@ -1,9 +1,12 @@
-# EtsyRadar
 
-This is a demo version of the EtsyRadar panel.
+# EtsyRadar Panel
 
-## How to Deploy
+## Giriş Bilgileri
+- Kullanıcı: penguen
+- Şifre: Penguen31
 
-1. Upload to GitHub
-2. Connect GitHub repo to Vercel
-3. Done!
+## Kurulum
+1. Bu projeyi GitHub hesabına yükle
+2. Vercel'de "Import Project" ile bağla
+3. Framework: Next.js
+4. Deploy et, panelin yayında olsun!
